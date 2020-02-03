@@ -1,0 +1,16 @@
+{
+    "photo": "images/p1.jpeg",
+    "name": "Xavier Lopez",
+    "title": "Consultat - Graduate Developer",
+    "description": [
+        "Hi! I'm Xavi, nice to meet you! I'm a Software Developer passionate about design, society, and new technologies.",
+        "I've worked in projects related to procedural art generation, videogames, societal challenges, web technologies, and design. Thanks to that, I've developed a set of skills that allow me to face any new challenge and exceed my expectations.",
+        "I appreciate positive and competitive work environments, where challenges and cooperation define the day to day and help the team to grow personally and professionally. "
+    ],
+    "media": {
+        "twitter": "a",
+        "facebook": "",
+        "linkedin": "c",
+        "instagram": "d"
+    }
+}
